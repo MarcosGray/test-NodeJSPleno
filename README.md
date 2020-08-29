@@ -22,20 +22,38 @@ Baixe o projeto usando o codigo abaixo.
 ### Passo 2:
 Entre na pasta backend e instale o as dependências executando os códigos abaixo (precisa ter o npm ou yarn instalado):
 
-<code>cd backend</code>
-
-<code>npm install ou yarn</code>
+<code>npm install</code> ou <code>yarn</code>
 
 ### Passo 3:
-Entre na pasta front-map e execute qualquer um dos codigos abaixo para instalar as depencias do projeto no frontend.
+Entre na pasta frontmap e execute qualquer um dos codigos abaixo para instalar as depencias do projeto no frontend.
 
-<code>npm install ou yarn</code>
+<code>npm install</code> ou <code>yarn</code>
 
 ## Como rodar projeto sem o docker:
 
 ### Passo 1:
-Entre primeiro na pasta backend (usando um termnal) e execute
+Dentro da pasta backend abra o terminal e execute o código abaixo, para subir a api.
+
+<code>npm start</code> ou <code>yarn start</code>
 
 ### Passo 2:
-Entre nas pastas do projeto e execute (precisa ter o npm ou yarn instalado):
-<code>npm install ou yarn</code>
+Dentro da pasta frontend abra o terminal e execute o código abaixo, para subir a frontend.
+
+<code>npm start</code> ou <code>yarn start</code>
+
+### Passo 3:
+Abra um navegador da sua preferencia e cole a url abaixo.
+
+<code>http://localhost:3000</code>
+
+## Como rodar projeto com o docker:
+
+### Passo 1:
+Entre na pasta do projeto e execute o código abaixo:
+
+<code>docker-compose up -d --build</code>
+
+### Passo 2:
+Abra um navegador da sua preferencia e cole a url abaixo.
+
+<code>http://localhost:3000</code>
