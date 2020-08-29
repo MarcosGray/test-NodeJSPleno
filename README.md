@@ -49,7 +49,7 @@ Abra um navegador da sua preferencia e cole a url abaixo.
 ## Como rodar projeto com o docker:
 
 ### Passo 1:
-Entre na pasta do projeto e execute o código abaixo:
+Entre na pasta do projeto pelo terminal e execute o código abaixo:
 
 <code>docker-compose up -d --build</code>
 
