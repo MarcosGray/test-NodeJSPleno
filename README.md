@@ -1,6 +1,5 @@
 # Plotar Markers agrupados no Google Maps
-Este projeto foi desenvolvido com Nodejs, React, Gogle-map-react e Docker com o objetivo de plotar 50.000 pontos no mapa e agupá-los a medida que diminui 
-o zoom no mapa.
+Este projeto foi desenvolvido com Nodejs, React, Gogle-map-react e Docker com o objetivo de plotar 50.000 pontos no mapa e agrupá-los a medida que diminuir o zoom e desagrupá-los ao aumentar o zoom.
 
 ## Entendendo o funcionamento
 
