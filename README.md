@@ -36,7 +36,7 @@ Dentro da pasta backend abra o terminal e execute o código abaixo, para subir a
 <code>npm start</code> ou <code>yarn start</code>
 
 ### Passo 2:
-Dentro da pasta frontend abra o terminal e execute o código abaixo, para subir a frontend.
+Dentro da pasta frontmap abra o terminal e execute o código abaixo, para subir o frontend.
 
 <code>npm start</code> ou <code>yarn start</code>
 
