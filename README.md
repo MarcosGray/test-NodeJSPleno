@@ -11,6 +11,10 @@ Ao aproximar o mapa, ou seja aumentar o zoom irá surgir outros pontos, que irá
 Ao distanciar o mapa, ou seja, diminuir o zoom os Markers irão diminuindo em quantidade e mostrando valores dentro circulo maiores, representando a quantidade de 
 pontos agrupados naquele local.
 
+## Pré-requisitos para executar o projeto
+
+Será necessário ter uma conta no Google Cloud e criar uma crendencial(chave de API) e colocá-la no arquivo ".env" que está dentro da pasta "frontmap".
+
 ## Como instalar projeto
 
 ### Passo 1:
