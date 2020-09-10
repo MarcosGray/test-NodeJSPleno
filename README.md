@@ -11,9 +11,6 @@ Ao aproximar o mapa, ou seja aumentar o zoom irá surgir outros pontos, que irá
 Ao distanciar o mapa, ou seja, diminuir o zoom os Markers irão diminuindo em quantidade e mostrando valores dentro circulo maiores, representando a quantidade de 
 pontos agrupados naquele local.
 
-## Pré-requisitos para executar o projeto
-
-Será necessário ter uma conta no Google Cloud e criar uma crendencial(chave de API) e colocá-la no arquivo ".env" que está dentro da pasta "frontmap".
 
 ## Como instalar projeto
 
@@ -32,7 +29,11 @@ Entre na pasta frontmap e execute qualquer um dos codigos abaixo para instalar a
 
 <code>npm install</code> ou <code>yarn</code>
 
-## Como rodar projeto sem o docker:
+## Pré-requisitos para executar o projeto
+
+Será necessário ter uma conta no Google Cloud e criar uma crendencial(chave de API) e colocá-la no arquivo ".env" que está dentro da pasta "frontmap".
+
+## Como executar o projeto sem o docker:
 
 ### Passo 1:
 Dentro da pasta backend abra o terminal e execute o código abaixo, para subir a api.
@@ -49,7 +50,7 @@ Abra um navegador da sua preferencia e cole a url abaixo.
 
 <code>http://localhost:3000</code>
 
-## Como rodar projeto com o docker:
+## Como executar o projeto com o docker:
 
 ### Passo 1:
 Entre na pasta do projeto pelo terminal e execute o código abaixo, para buildar o projeto e subir os containers.
